@@ -194,7 +194,7 @@ For any questions or further information, please contact:
 - [Join Discord Server](https://discord.gg/4JtuMhMcjn)
 
 ---
-
+Docker file added 21/02/2025 12:33pm
 Good luck for the hackathon
 
 Happy Learning :)
